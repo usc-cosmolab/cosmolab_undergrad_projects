@@ -10,18 +10,18 @@ Any general questions can be sent to [Prof. Kris Pardo](mailto:kmpardo@usc.edu) 
 
 | Project | Contact | Level | Available?| Short Description |
 | :--- | :---: | :---: | :---: | :--- |
-| Acoustic Oscillations in CDM and IDM Cosmologies | Dimple Saarnaik (ADD EMAIL)| Advanced | Yes | Modifying real-space interface in CLASS to visualize acoustic oscillations in different dark matter models | 
+| [Acoustic Oscillations in CDM and IDM Cosmologies](acoustic/) | [Vera Gluscevic](mailto:vera.gluscevic@usc.edu)| Advanced | Yes | Modifying real-space interface in CLASS to visualize acoustic oscillations in different dark matter models | 
 
 ## Gravitational Wave Projects
 | Project | Contact | Level | Available?| Short Description |
 | :--- | :---: | :---: | :---: | :--- |
-| Gravitational Wave Stellar Field Distortion Animation (ADD LINK) | Benjamin Zhang (ADD EMAIL) | Intermediate | Yes | Create a general animation package that shows how star positions are distorted by GWs| 
+| Gravitational Wave Stellar Field Distortion Animation (ADD LINK) | [Benjamin Zhang](mailto:zhangben@usc.edu) | Intermediate | Yes | Create a general animation package that shows how star positions are distorted by GWs| 
 
 ## Simulation Projects
 | Project | Contact | Level | Available?| Short Description |
 | :--- | :---: | :---: | :---: | :--- |
-| Isolated CDM Halo (ADD LINK) | Rui An (ADD EMAIL) | Intermediate | Yes | Run a dark matter only isolated halo simulation |
-| Video of Dark Matter Only Cosmological Simulation (ADD LINK) | Ethan Nadler (ADD EMAIL) | Intermediate/Advanced | Yes | Create a movie from snapshots of a simulation |
+| Isolated CDM Halo (ADD LINK) | [Rui An](mailto:anrui@usc.edu) | Intermediate | Yes | Run a dark matter only isolated halo simulation |
+| Video of Dark Matter Only Cosmological Simulation (ADD LINK) | [Ethan Nadler](mailto:enadler@usc.edu) | Intermediate/Advanced | Yes | Create a movie from snapshots of a simulation |
 
 ## General Cosmology Projects
 | Project | Contact | Level | Available?| Short Description |
