@@ -27,6 +27,6 @@ Any general questions can be sent to [Prof. Kris Pardo](mailto:kmpardo@usc.edu) 
 | Project | Contact | Level | Available?| Short Description |
 | :--- | :---: | :---: | :---: | :--- |
 | Universe Contents Pie Chart (pie/) | [Trey Driskell](mailto:gdriskel@usc.edu) | Introductory | Yes | Create an animated pie chart that shows the content of the universe and how it changes with time |
-| Matter Power Spectrum Animation (ADD LINK) | [Trey Driskell](mailto:gdriskel@usc.edu) | Introductory | Yes | Create an animated plot that shows the matter power spectrum and how it changes with time |
+| Matter Power Spectrum Animation (ps/) | [Adam He](mailto:adamhe@usc.edu) | Introductory | Yes | Create an animated plot that shows the matter power spectrum and how it changes with time |
 
 
