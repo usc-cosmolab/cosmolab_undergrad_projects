@@ -10,7 +10,7 @@ Any general questions can be sent to [Prof. Kris Pardo](mailto:kmpardo@usc.edu) 
 
 | Project | Contact | Level | Available?| Short Description |
 | :--- | :---: | :---: | :---: | :--- |
-| [Acoustic Oscillations in CDM and IDM Cosmologies](acoustic/) | [Vera Gluscevic](mailto:vera.gluscevic@usc.edu)| Advanced | Yes | Modifying real-space interface in CLASS to visualize acoustic oscillations in different dark matter models | 
+| [Acoustic Oscillations in the Early Universe](acoustic/) | [Vera Gluscevic](mailto:vera.gluscevic@usc.edu)| Intermediate | Yes | Modifying real-space interface in CLASS to visualize acoustic oscillations in different dark matter models | 
 
 ## Gravitational Wave Projects
 | Project | Contact | Level | Available?| Short Description |
