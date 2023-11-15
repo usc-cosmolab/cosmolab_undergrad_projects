@@ -1,6 +1,9 @@
 # CosmoLab Undergraduate Projects
 
-This repository contains projects for undergraduates who are interested in doing research in cosmology. Below is a list of all of the projects, organized by subfield. If you are interested in an available project, please contact the lead researcher indicated next to the project title.
+This repository contains projects for USC undergraduates who are interested in doing research in cosmology. At the same time, products of this work aim to serve a broader educational community---they contain cosmological visualizations that illustrate key concepts used in our classrooms, academic presentations, and for outreach to non-academic audiences. The products available here are free for use with proper attribution: "Made in USC CosmoLab by [the author] and [lead researcher]." 
+
+
+Below is a list of all of the projects, organized by subfield. If you are interested in an available project, please contact the lead researcher indicated next to the project title.
 
 Any general questions can be sent to [Prof. Kris Pardo](mailto:kmpardo@usc.edu) and/or [Prof. Vera Gluscevic](mailto:vera.gluscevic@usc.edu).
 
@@ -10,7 +13,7 @@ Any general questions can be sent to [Prof. Kris Pardo](mailto:kmpardo@usc.edu) 
 
 | Project | Contact | Level | Available?| Short Description |
 | :--- | :---: | :---: | :---: | :--- |
-| [Acoustic Oscillations in the Early Universe](acoustic/) | [Vera Gluscevic](mailto:vera.gluscevic@usc.edu)| Intermediate | Yes | Modifying real-space interface in CLASS to visualize acoustic oscillations in different dark matter models | 
+| [Acoustic Oscillations in the Early Universe](acoustic/) | [Vera Gluscevic](mailto:vera.gluscevic@usc.edu)| Intermediate | Claimed by Mowen | Modifying real-space interface in CLASS to visualize acoustic oscillations in different dark matter models | 
 
 ## Gravitational Wave Projects
 | Project | Contact | Level | Available?| Short Description |
