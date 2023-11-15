@@ -1,6 +1,6 @@
-# CosmoLab Undergraduate Projects
+# Cosmology visualization and analysis tasks for undergrads
 
-This repository contains projects for USC undergraduates who are interested in doing research in cosmology. At the same time, products of this work aim to serve a broader educational community---they contain cosmological visualizations that illustrate key concepts used in our classrooms, academic presentations, and for outreach to non-academic audiences. The products available here are free for use with proper attribution: "Made in USC CosmoLab by [the author] and [lead researcher]." 
+This repository contains visualization and analysis projects for USC undergraduates who are interested in research in cosmology. The products of this work also aim to serve a broader educational community---they contain visualizations that illustrate key concepts used in our classrooms, academic presentations, and for outreach to non-academic audiences. The products available here are free for use with proper attribution: "Made in USC CosmoVizLab by [the author] and [lead researcher]." 
 
 
 Below is a list of all of the projects, organized by subfield. If you are interested in an available project, please contact the lead researcher indicated next to the project title.
