@@ -15,7 +15,7 @@ Any general questions can be sent to [Prof. Kris Pardo](mailto:kmpardo@usc.edu) 
 | Project | Contact | Level | Available?| Short Description |
 | :--- | :---: | :---: | :---: | :--- |
 | [Acoustic Oscillations in the Early Universe](acoustic/) | [Vera Gluscevic](mailto:vera.gluscevic@usc.edu)| Intermediate | Claimed by Mowen | Modifying real-space interface in CLASS to visualize acoustic oscillations in different dark matter models | 
-| [Interacting dark matter allowed parameter space based on interaction rate] | [Eleanor Stuart](mailto:stuarte@usc.edu)| Advanced | Yes | Make a plot of the allowed fractions of dark matter that is interacting vs dark matter particle mass | 
+| Interacting dark matter allowed parameter space based on interaction rate | [Eleanor Stuart](mailto:stuarte@usc.edu)| Advanced | Yes | Make a plot of the allowed fractions of dark matter that is interacting vs dark matter particle mass | 
 
 ## Gravitational Wave Projects
 | Project | Contact | Level | Available?| Short Description |
